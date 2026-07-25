@@ -1,0 +1,21 @@
+# 忽略文件
+__pycache__/
+*.pyc
+*.pyo
+*.db-journal
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+*.log
+.DS_Store
+Thumbs.db
+
+# 用戶詞庫（可選提交）
+user_words.db
+
+# 臨時文件
+*.tmp
+*.bak
+*.swp
